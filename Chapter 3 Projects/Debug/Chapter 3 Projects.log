@@ -1,0 +1,8 @@
+﻿  Chapter3Projects.cpp
+c:\users\m0r607h mk2\source\repos\chapter 3 projects\chapter 3 projects\chapter3projects.cpp(161): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+c:\users\m0r607h mk2\source\repos\chapter 3 projects\chapter 3 projects\chapter3projects.cpp(161): warning C4305: 'initializing': truncation from 'int' to 'const char'
+c:\users\m0r607h mk2\source\repos\chapter 3 projects\chapter 3 projects\chapter3projects.cpp(161): warning C4309: 'initializing': truncation of constant value
+c:\users\m0r607h mk2\source\repos\chapter 3 projects\chapter 3 projects\chapter3projects.cpp(233): warning C4244: 'initializing': conversion from 'double' to 'val', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 3 projects\chapter 3 projects\chapter3projects.cpp(234): warning C4244: 'initializing': conversion from 'double' to 'val', possible loss of data
+  Chapter 3 Projects.vcxproj -> C:\Users\M0r607h Mk2\source\repos\Chapter 3 Projects\Debug\Chapter 3 Projects.exe
+  Chapter 3 Projects.vcxproj -> C:\Users\M0r607h Mk2\source\repos\Chapter 3 Projects\Debug\Chapter 3 Projects.pdb (Partial PDB)
